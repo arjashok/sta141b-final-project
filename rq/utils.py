@@ -7,10 +7,13 @@ from pathlib import Path
 
 HOME_PATH = Path(__file__).resolve().parent.parent
 DATASET_PATH = HOME_PATH / "datasets"
+FIG_PATH = HOME_PATH / "figures"
 
 MOVIES_PATH = DATASET_PATH / "2024_us_movie_ids.csv"
 REVIEW_PATH = DATASET_PATH / "reviews.csv"
 SENTIMENT_PATH = DATASET_PATH / "sentiment.csv"
+CLEANED_PATH = DATASET_PATH / "cleaned.csv"
+METRICS_PATH = DATASET_PATH / "metrics.json"
 
 DEV_PATH = HOME_PATH / ".dev"
 
