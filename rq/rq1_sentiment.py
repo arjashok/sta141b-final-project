@@ -3,26 +3,45 @@
 """
 
 # -- Env Setup -- #
-# imports
+# importss
 import torch
 import pandas as pd
 from transformers import pipeline, AutoTokenizer, AutoModelForSequenceClassification
+from tqdm import tqdm
 
 from pathlib import Path
+
+from rq.utils import *
 
 # model params
 MODEL_NAME = "nlptown/bert-base-multilingual-uncased-sentiment"
 DEVICE = 0 if torch.cuda.is_available() else -1
 
 # -- Scripts -- #
-def gen_review_dataset(movie_path: Path) -> None:
-    """Generates the dataset with just the reviews
-
-    Args:
-        movie_path (Path): _description_
+def gen_review_dataset() -> None:
+    """Generates the dataset with just the reviews.
     """
     
     # load the movie ids
+    movies = pd.read_csv(MOVIES_PATH)["movie_id"]
+    
+    # for each, request the reviews for it
+    reviews = list()
+    
+    for movie in tqdm(movies):
+        # get and transform reviews
+        r = get_reviews(movie)
+        r = list(map(transform_review, r))
+        
+        # accumulate into one dictionary/frame
+        r = accumulate_reviews(r)
+        
+        # compress into a dataframe and append
+        reviews.append(pd.DataFrame(r))
+    
+    # concat & save
+    reviews = pd.concat(reviews, ignore_index=True)
+    reviews.to_csv(REVIEW_PATH, index=False)
 
 def gen_sentiment_dataset():
     """Generates a new column for the review dataset with the model-guess for
@@ -32,9 +51,16 @@ def gen_sentiment_dataset():
     # setup model
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
     model = AutoModelForSequenceClassification.from_pretrained(MODEL_NAME)
-    pipe = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer, device=DEVICE)
+    pipe = pipeline(
+        "text-classification", model=model, tokenizer=tokenizer, device=DEVICE
+    )
     
+    # load the review dataset
+    reviews = pd.read_csv(REVIEW_PATH)
     
+    # generate the sentiment scores for each review
+    sentiment_packages = pipe(reviews["review"][0])
+    print(sentiment_packages)
     
 def compare_review_scores():
     """Generates the figures and statistics comparing the human-chosen score vs
@@ -46,5 +72,6 @@ def compare_review_scores():
 
 # -- Main -- #
 if __name__ == "__main__":
-    gen_
+    # gen_review_dataset()
+    gen_sentiment_dataset()
 
