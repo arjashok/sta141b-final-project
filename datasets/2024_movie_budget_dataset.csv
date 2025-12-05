@@ -1,0 +1,442 @@
+id,title,budget,revenue,rating,budget_category
+1097549,Babygirl,20000000,60934894,5.728,Low Budget
+661539,A Complete Unknown,65000000,138003641,7.104,High Budget
+426063,Nosferatu,50000000,181764515,6.691,High Budget
+549509,The Brutalist,9600000,50145227,6.967,Low Budget
+939243,Sonic the Hedgehog 3,122000000,492162604,7.642,High Budget
+929204,Wallace & Gromit: Vengeance Most Fowl,0,191452,7.5,Low Budget
+762509,Mufasa: The Lion King,200000000,722631756,7.348,High Budget
+539972,Kraven the Hunter,130000000,62076533,6.467,High Budget
+1061699,The Six Triple Eight,0,0,7.539,Low Budget
+799766,Better Man,110000000,22549151,7.7,High Budget
+1082195,The Order,20000000,1970445,6.586,Low Budget
+1005331,Carry-On,47000000,0,6.895,Low Budget
+839033,The Lord of the Rings: The War of the Rohirrim,30000000,20658572,6.569,Low Budget
+1234811,Our Little Secret,0,0,6.27,Low Budget
+1241982,Moana 2,150000000,1059242164,7.026,High Budget
+402431,Wicked,150000000,758737211,6.922,High Budget
+558449,Gladiator II,310000000,462180717,6.65,High Budget
+516729,Paddington in Peru,90000000,170116764,6.8,High Budget
+1035048,Elevation,18000000,3300000,6.461,Low Budget
+1013850,A Real Pain,3000000,24856027,6.763,Low Budget
+1138194,Heretic,10000000,51913394,6.973,Low Budget
+845781,Red One,250000000,185700759,7.034,High Budget
+1106739,Juror #2,30000000,21418477,6.875,Low Budget
+940139,Here,40000000,15397270,6.544,Low Budget
+827931,Time Cut,0,0,5.631,Low Budget
+974576,Conclave,20000000,115657988,7.2,Low Budget
+1063877,Don't Move,0,0,6.341,Low Budget
+912649,Venom: The Last Dance,120000000,478937618,6.68,High Budget
+1064486,Memoir of a Snail,4350000,7,8.065,Low Budget
+1100782,Smile 2,28000000,138128854,6.597,Low Budget
+1064213,Anora,6000000,56286295,7.05,Low Budget
+1100099,We Live in Time,20000000,37182814,7.257,Low Budget
+1182047,The Apprentice,16000000,17271613,6.896,Low Budget
+1034541,Terrifier 3,2000000,90322103,6.816,Low Budget
+835113,Woman of the Hour,836057,0,6.424,Low Budget
+748230,Salem's Lot,0,851156,6.034,Low Budget
+889737,Joker: Folie à Deux,190000000,207500287,5.41,High Budget
+592831,Megalopolis,120000000,14387154,5.174,High Budget
+877817,Wolfs,80000000,0,6.547,High Budget
+814889,Never Let Go,20000000,21768945,6.116,Low Budget
+1184918,The Wild Robot,78000000,331982078,8.318,High Budget
+832964,Lee,0,23508220,7.0,Low Budget
+748167,Uglies,0,0,5.765,Low Budget
+1114513,Speak No Evil,15000000,76756109,7.184,Low Budget
+698687,Transformers One,75000000,129408392,8.023,High Budget
+933260,The Substance,17500000,76506196,7.145,Low Budget
+917496,Beetlejuice Beetlejuice,99000000,452000435,6.961,High Budget
+646097,Rebel Ridge,0,0,6.993,Low Budget
+957452,The Crow,50000000,24109036,5.809,High Budget
+840705,Blink Twice,20000000,46393906,6.686,Low Budget
+930600,The Deliverance,0,0,5.987,Low Budget
+1064028,Subservience,4400000,262793,6.635,Low Budget
+704239,The Union,0,0,6.104,Low Budget
+1029281,Strange Darling,4000000,4853595,6.916,Low Budget
+1094138,Jackpot!,0,0,6.39,Low Budget
+945961,Alien: Romulus,80000000,350865342,7.178,High Budget
+1079091,It Ends with Us,25000000,350993761,6.972,Low Budget
+365177,Borderlands,115000000,33017367,5.622,High Budget
+1059064,The Instigators,0,11098,6.186,Low Budget
+1032823,Trap,30000000,83677281,6.259,Low Budget
+533535,Deadpool & Wolverine,200000000,1338073645,7.569,High Budget
+1216191,Oddity,0,1699044,6.67,Low Budget
+1226578,Longlegs,10000000,127961936,6.562,Low Budget
+956842,Fly Me to the Moon,100000000,42260534,6.808,High Budget
+718821,Twisters,155000000,372262265,6.796,High Budget
+1023922,MaXXXine,10000000,22057161,6.3,Low Budget
+987686,A Family Affair,0,0,5.753,Low Budget
+932086,Horizon: An American Saga - Chapter 1,50000000,38735702,6.868,High Budget
+762441,A Quiet Place: Day One,67000000,261907653,6.687,High Budget
+704673,Trigger Warning,0,0,5.726,Low Budget
+519182,Despicable Me 4,100000000,969597394,7.012,High Budget
+280180,Beverly Hills Cop: Axel F,150000000,0,6.672,High Budget
+1008409,The Bikeriders,40000000,36110860,6.699,Low Budget
+1022789,Inside Out 2,200000000,1698863816,7.55,High Budget
+1086747,The Watchers,30000000,51147812,6.38,Low Budget
+573435,Bad Boys: Ride or Die,100000000,404547819,7.347,High Budget
+1029955,Kinds of Kindness,15000000,16398509,6.475,Low Budget
+614933,Atlas,100000000,0,6.702,High Budget
+786892,Furiosa: A Mad Max Saga,168000000,174287546,7.461,High Budget
+974635,Hit Man,8800000,5101673,6.792,Low Budget
+1010600,The Strangers: Chapter 1,8500000,48166448,5.655,Low Budget
+653346,Kingdom of the Planet of the Apes,160000000,397378150,7.057,High Budget
+639720,IF,110000000,190309707,7.021,High Budget
+858017,I Saw the TV Glow,10000000,5396508,6.062,Low Budget
+843527,The Idea of You,0,36178,7.334,Low Budget
+719221,Tarot,8000000,49256239,6.412,Low Budget
+748783,The Garfield Movie,60000000,254907482,7.0,High Budget
+882059,Boy Kills World,18000000,3139717,6.754,Low Budget
+746036,The Fall Guy,125000000,181073291,6.983,High Budget
+934632,Rebel Moon - Part Two: The Scargiver,83000000,0,6.085,High Budget
+937287,Challengers,55000000,94182533,6.935,High Budget
+799583,The Ministry of Ungentlemanly Warfare,60000000,29768915,7.029,High Budget
+1111873,Abigail,28000000,43015969,6.712,Low Budget
+1051896,Arcadian,0,1134275,6.047,Low Budget
+998846,Back to Black,30000000,51001975,6.669,Low Budget
+929590,Civil War,50000000,126542249,6.852,High Budget
+560016,Monkey Man,10000000,35271631,6.886,Low Budget
+437342,The First Omen,30000000,53992802,6.853,Low Budget
+823464,Godzilla x Kong: The New Empire,150000000,571750016,7.076,High Budget
+978592,Sleeping Dogs,0,0,7.001,Low Budget
+1041613,Immaculate,9000000,35340015,6.228,Low Budget
+967847,Ghostbusters: Frozen Empire,100000000,201967521,6.482,High Budget
+938614,Late Night with the Devil,2000000,15469415,7.113,Low Budget
+359410,Road House,85000000,0,6.94,High Budget
+1022690,Ricky Stanicky,0,0,6.5,Low Budget
+948549,Love Lies Bleeding,10000000,12778225,6.577,Low Budget
+763215,Damsel,60000000,5000,6.996,High Budget
+1125311,Imaginary,13000000,43787034,5.946,Low Budget
+1011985,Kung Fu Panda 4,80000000,548040835,7.029,High Budget
+932420,Code 8 Part II,0,0,6.366,Low Budget
+693134,Dune: Part Two,190000000,714844358,8.133,High Budget
+975773,Wicked Little Letters,12600000,27219729,6.949,Low Budget
+636706,Spaceman,40000000,0,6.714,Low Budget
+957304,Drive-Away Dolls,8000000,7935363,5.478,Low Budget
+618588,Arthur the King,19000000,40829138,7.578,Low Budget
+802219,Bob Marley: One Love,70000000,180828556,6.64,High Budget
+634492,Madame Web,80000000,100498764,5.322,High Budget
+969492,Land of Bad,18000000,7021101,7.276,Low Budget
+1014590,Upgraded,0,0,7.184,Low Budget
+993784,Lisa Frankenstein,13400000,9927714,6.295,Low Budget
+1139829,Orion and the Dark,0,0,6.5,Low Budget
+848538,Argylle,200000000,96221061,6.023,High Budget
+1052280,It's What's Inside,0,0,6.5,Low Budget
+1096197,No Way Up,0,0,6.3,Low Budget
+1026436,Miller's Girl,4000000,1430985,6.349,Low Budget
+758679,Mothers' Instinct,0,2681023,6.891,Low Budget
+955916,Lift,0,0,6.445,Low Budget
+673593,Mean Girls,36000000,104970953,5.93,Low Budget
+866398,The Beekeeper,35000000,152720535,7.275,Low Budget
+1072342,Night Swim,15000000,54785387,5.527,Low Budget
+994108,All of Us Strangers,5000000,14864960,7.411,Low Budget
+1072790,Anyone But You,25000000,214891370,6.835,Low Budget
+850165,The Iron Claw,15900000,40130232,7.529,Low Budget
+760774,One Life,0,51437352,7.769,Low Budget
+572802,Aquaman and the Lost Kingdom,205000000,440181226,6.565,High Budget
+848326,Rebel Moon - Part One: A Child of Fire,83000000,0,6.237,High Budget
+467244,The Zone of Interest,15000000,52631884,7.0,Low Budget
+1029575,The Family Plan,0,0,7.249,Low Budget
+848187,Role Play,0,0,5.946,Low Budget
+365620,Ferrari,95000000,39220516,6.368,High Budget
+520758,Chicken Run: Dawn of the Nugget,0,0,6.951,Low Budget
+792307,Poor Things,35000000,117607117,7.656,Low Budget
+940551,Migration,72000000,298776052,7.38,High Budget
+787699,Wonka,125000000,634502312,7.054,High Budget
+891699,Silent Night,0,0,6.172,Low Budget
+798021,Family Switch,0,0,6.404,Low Budget
+753342,Napoleon,165000000,220597098,6.317,High Budget
+726209,Leave the World Behind,0,0,6.377,Low Budget
+523607,Maestro,80000000,300000,6.284,High Budget
+1075794,Leo,0,0,7.392,Low Budget
+1071215,Thanksgiving,15000000,46553280,6.491,Low Budget
+930564,Saltburn,20000000,21013738,6.965,Low Budget
+839369,May December,20000000,4232370,6.6,Low Budget
+621587,Next Goal Wins,14000000,18062279,6.408,Low Budget
+695721,The Hunger Games: The Ballad of Songbirds & Snakes,100000000,337371917,7.002,High Budget
+1022796,Wish,175000000,254997360,6.265,High Budget
+1056360,American Fiction,16000000,22483370,7.283,Low Budget
+823482,Dream Scenario,10000000,14114415,6.7,Low Budget
+609681,The Marvels,274800000,206136825,6.0,High Budget
+1020006,Priscilla,20000000,30140906,6.755,Low Budget
+840430,The Holdovers,13000000,42513270,7.7,Low Budget
+800158,The Killer,175000000,362113,6.58,High Budget
+507089,Five Nights at Freddy's,20000000,297144130,7.4,Low Budget
+862968,Pain Hustlers,0,0,6.65,Low Budget
+895549,NYAD,0,0,7.094,Low Budget
+466420,Killers of the Flower Moon,200000000,158722599,7.409,High Budget
+901362,Trolls Band Together,95000000,209646030,7.266,High Budget
+1027073,In the Land of Saints and Sinners,0,0,6.5,Low Budget
+763165,The Burial,32500000,0,7.066,Low Budget
+897087,Freelance,40000000,9112817,6.401,Low Budget
+807172,The Exorcist: Believer,30000000,136284218,5.831,Low Budget
+1172676,Poison,0,0,6.868,Low Budget
+937249,57 Seconds,0,0,6.1,Low Budget
+866463,Reptile,0,0,6.665,Low Budget
+974931,Totally Killer,0,0,6.8,Low Budget
+910571,Fair Play,0,0,6.318,Low Budget
+951491,Saw X,13000000,125319714,7.19,Low Budget
+670292,The Creator,80000000,104272136,7.025,High Budget
+893723,PAW Patrol: The Mighty Movie,30000000,202231360,7.0,Low Budget
+820609,No One Will Save You,22800000,0,6.682,Low Budget
+923939,The Wonderful Story of Henry Sugar,0,0,7.243,Low Budget
+792293,Dumb Money,30000000,20703794,6.679,Low Budget
+353577,Love at First Sight,0,0,7.203,Low Budget
+299054,Expend4bles,100000000,37917985,6.089,High Budget
+945729,A Haunting in Venice,60000000,121400000,6.586,High Budget
+820525,After Everything,14000000,10644463,6.889,Low Budget
+968051,The Nun II,38500000,269670590,6.675,Low Budget
+926393,The Equalizer 3,70000000,191067560,7.295,High Budget
+814776,Bottoms,11300000,12976079,6.753,Low Budget
+762430,Retribution,20000000,18685751,6.568,Low Budget
+912908,Strays,46000000,32000000,7.2,Low Budget
+565770,Blue Beetle,104000000,130788072,6.656,High Budget
+980489,Gran Turismo,60000000,121700000,7.736,High Budget
+724209,Heart of Stone,0,0,6.8,Low Budget
+635910,The Last Voyage of the Demeter,45000000,21600000,6.751,Low Budget
+615656,Meg 2: The Trench,129000000,384056482,6.405,High Budget
+614930,Teenage Mutant Ninja Turtles: Mutant Mayhem,75000000,180513586,7.213,High Budget
+930094,"Red, White & Royal Blue",0,0,7.9,Low Budget
+1008042,Talk to Me,4500000,91959188,7.146,Low Budget
+616747,Haunted Mansion,157800000,117449790,6.44,High Budget
+872585,Oppenheimer,100000000,952000000,8.045,High Budget
+709631,Cobweb,13000000,10091821,6.5,Low Budget
+346698,Barbie,145000000,1447138421,6.944,High Budget
+575264,Mission: Impossible - Dead Reckoning Part One,291000000,571125435,7.518,High Budget
+921636,The Out-Laws,0,0,5.996,Low Budget
+457332,Hidden Strike,80000000,0,6.916,High Budget
+614479,Insidious: The Red Door,16000000,189086877,6.5,Low Budget
+678512,Sound of Freedom,14500000,250600000,7.976,Low Budget
+1040148,"Ruby Gillman, Teenage Kraken",70000000,46247409,7.188,High Budget
+335977,Indiana Jones and the Dial of Destiny,294700000,383963057,6.531,High Budget
+961323,Nimona,0,0,7.867,Low Budget
+884605,No Hard Feelings,45000000,83000000,6.7,Low Budget
+976573,Elemental,200000000,496444308,7.594,High Budget
+736769,They Cloned Tyrone,47000000,0,6.6,Low Budget
+298618,The Flash,220000000,271333313,6.623,High Budget
+697843,Extraction 2,65000000,0,7.407,High Budget
+747188,Asteroid City,25000000,53857743,6.4,Low Budget
+667538,Transformers: Rise of the Beasts,195000000,441381193,7.2,High Budget
+985617,Reality,0,0,6.4,Low Budget
+666277,Past Lives,12000000,28126646,7.7,Low Budget
+569094,Spider-Man: Across the Spider-Verse,100000000,690897910,8.3,High Budget
+532408,The Boogeyman,35000000,82344833,6.4,Low Budget
+717930,Kandahar,30000000,9400000,6.806,Low Budget
+447277,The Little Mermaid,297000000,569626289,6.291,High Budget
+385687,Fast X,340000000,704709660,7.015,High Budget
+536437,Hypnotic,70000000,16014123,6.21,High Budget
+552688,The Mother,0,0,6.6,Low Budget
+447365,Guardians of the Galaxy Vol. 3,250000000,845550000,7.9,High Budget
+455476,Knights of the Zodiac,60000000,7000000,6.3,High Budget
+890771,The Black Demon,0,0,5.9,Low Budget
+420808,Peter Pan & Wendy,0,0,5.44,Low Budget
+882569,Guy Ritchie's The Covenant,55000000,21948551,7.731,High Budget
+868759,Ghosted,40000000,0,6.9,Low Budget
+948713,The Last Kingdom: Seven Kings Must Die,0,0,7.237,Low Budget
+798286,Beau Is Afraid,35000000,12337378,6.721,Low Budget
+713704,Evil Dead Rise,15000000,147156372,6.919,Low Budget
+649609,Renfield,65000000,26874347,6.463,High Budget
+605886,To Catch a Killer,0,3138750,6.866,Low Budget
+964980,Air,80000000,90100000,7.3,High Budget
+758323,The Pope's Exorcist,18000000,76987621,6.931,Low Budget
+502356,The Super Mario Bros. Movie,100000000,1362000000,7.603,High Budget
+1016121,Beautiful Disaster,25000000,6850036,6.6,Low Budget
+638974,Murder Mystery 2,0,0,6.394,Low Budget
+493529,Dungeons & Dragons: Honor Among Thieves,151000000,208200000,7.334,High Budget
+603692,John Wick: Chapter 4,100000000,440157245,7.717,High Budget
+881164,Boston Strangler,0,0,6.654,Low Budget
+726759,Tetris,0,0,7.656,Low Budget
+594767,Shazam! Fury of the Gods,110000000,134221819,6.4,High Budget
+626332,Flamin' Hot,0,0,8.0,Low Budget
+934433,Scream VI,35000000,168961389,6.974,Low Budget
+700391,65,45000000,60730568,5.966,Low Budget
+677179,Creed III,75000000,275300000,7.1,High Budget
+852096,We Have a Ghost,0,0,6.482,Low Budget
+722149,Luther: The Fallen Sun,0,0,6.6,Low Budget
+804150,Cocaine Bear,32500000,88314672,6.022,Low Budget
+640146,Ant-Man and the Wasp: Quantumania,200000000,476071180,6.3,High Budget
+1016084,BlackBerry,5000000,2600000,7.144,Low Budget
+717980,Sharper,0,0,6.866,Low Budget
+703451,Your Place or Mine,0,0,6.282,Low Budget
+906221,Magic Mike's Last Dance,45000000,52000000,6.448,Low Budget
+631842,Knock at the Cabin,20000000,54700000,6.253,Low Budget
+667216,Infinity Pool,4500000,5078400,6.06,Low Budget
+980078,Winnie the Pooh: Blood and Honey,100000,7717044,4.998,Low Budget
+866413,You People,0,0,5.638,Low Budget
+768362,Missing,7000000,45100756,7.415,Low Budget
+877703,Teen Wolf: The Movie,0,0,7.493,Low Budget
+646389,Plane,25000000,74515586,6.907,Low Budget
+739405,Operation Fortune: Ruse de Guerre,50000000,48983306,6.5,High Budget
+937278,A Man Called Otto,50000000,108961677,7.758,High Budget
+758009,Shotgun Wedding,0,4495365,6.26,Low Budget
+536554,M3GAN,12000000,181796517,7.049,Low Budget
+995133,"The Boy, the Mole, the Fox and the Horse",0,0,8.217,Low Budget
+777245,Women Talking,20000000,7589419,6.855,Low Budget
+800815,The Pale Blue Eye,72000000,0,6.814,High Budget
+615777,Babylon,78000000,65267446,7.371,High Budget
+76600,Avatar: The Way of Water,350000000,2330224914,7.609,High Budget
+814757,Empire of Light,13500000,11395604,6.624,Low Budget
+785084,The Whale,3000000,55101305,7.8,Low Budget
+315162,Puss in Boots: The Last Wish,90000000,484700000,8.21,High Budget
+715931,Emancipation,0,0,7.754,Low Budget
+899112,Violent Night,20000000,75734910,7.241,Low Budget
+829280,Enola Holmes 2,0,0,7.315,Low Budget
+744594,White Noise,100000000,71476,5.566,High Budget
+668482,Roald Dahl's Matilda the Musical,25000000,37289659,6.79,Low Budget
+821881,The Swimmers,0,0,7.438,Low Budget
+774752,The Guardians of the Galaxy Holiday Special,0,0,7.101,Low Budget
+877269,Strange World,180000000,73621640,6.25,High Budget
+661374,Glass Onion: A Knives Out Mystery,40000000,15000000,7.038,Low Budget
+653851,Devotion,90000000,20000000,7.081,High Budget
+791177,Bones and All,16000000,15234907,7.025,Low Budget
+668461,Slumberland,35000000,0,7.284,Low Budget
+338958,Disenchanted,0,0,6.7,Low Budget
+837881,She Said,32000000,13900000,7.209,Low Budget
+593643,The Menu,35000000,79628200,7.171,Low Budget
+457232,Lamborghini: The Man Behind the Legend,1709686,0,6.4,Low Budget
+1013860,R.I.P.D. 2: Rise of the Damned,0,0,6.301,Low Budget
+804095,The Fabelmans,40000000,45629909,7.6,Low Budget
+833097,Falling for Christmas,0,0,6.234,Low Budget
+806368,The Son,0,3564844,6.713,Low Budget
+632856,Spirited,75000000,0,6.869,High Budget
+555604,Guillermo del Toro's Pinocchio,35000000,0,8.041,Low Budget
+505642,Black Panther: Wakanda Forever,250000000,859102154,7.0,High Budget
+1022256,Selena Gomez: My Mind & Me,0,0,8.637,Low Budget
+823766,The Wonder,0,0,6.607,Low Budget
+979924,On the Line,0,0,6.08,Low Budget
+595586,Causeway,0,0,6.451,Low Budget
+676547,Prey for the Devil,0,37655699,6.882,Low Budget
+965150,Aftersun,0,7834405,7.675,Low Budget
+744114,My Policeman,0,0,7.625,Low Budget
+674324,The Banshees of Inisherin,20000000,49300000,7.455,Low Budget
+779782,The School for Good and Evil,0,0,7.044,Low Budget
+541134,The Good Nurse,0,0,6.874,Low Budget
+436270,Black Adam,200000000,393452111,6.832,High Budget
+616820,Halloween Ends,33000000,104374176,6.067,Low Budget
+830784,"Lyle, Lyle, Crocodile",50000000,104088441,6.971,High Budget
+663712,Terrifier 2,250000,15741780,6.7,Low Budget
+799546,Luckiest Girl Alive,0,0,6.536,Low Budget
+614939,Bros,22000000,14781779,6.656,Low Budget
+723419,Mr. Harrigan's Phone,0,0,6.399,Low Budget
+338947,Hellraiser,14000000,0,6.2,Low Budget
+664469,Amsterdam,80000000,31245810,6.061,High Budget
+642885,Hocus Pocus 2,30000000,0,7.171,Low Budget
+894205,Werewolf by Night,0,0,6.977,Low Budget
+882598,Smile,17000000,217408513,6.67,Low Budget
+817758,TÁR,35000000,29048571,7.088,Low Budget
+597922,The Greatest Beer Run Ever,2800000,0,7.532,Low Budget
+429473,Lou,0,0,6.512,Low Budget
+619730,Don't Worry Darling,35000000,86700000,6.777,Low Budget
+497828,Triangle of Sadness,15600000,24733572,7.023,Low Budget
+949423,Pearl,1000000,10139416,7.242,Low Budget
+814800,Goodnight Mommy,0,0,6.257,Low Budget
+724495,The Woman King,50000000,97300000,7.636,High Budget
+301502,Blonde,22000000,0,5.928,Low Budget
+717728,Jeepers Creepers: Reborn,5000000,6175213,5.35,Low Budget
+762968,Do Revenge,0,0,6.396,Low Budget
+766475,See How They Run,40000000,21921551,6.344,Low Budget
+928344,Weird: The Al Yankovic Story,12000000,0,6.707,Low Budget
+913290,Barbarian,4500000,45400000,6.842,Low Budget
+800939,Ticket to Paradise,20000000,168800000,6.43,Low Budget
+551271,Medieval,23000000,4311284,6.888,Low Budget
+1015606,Obi-Wan Kenobi: A Jedi's Return,0,0,6.797,Low Budget
+532639,Pinocchio,0,0,6.303,Low Budget
+862551,Me Time,0,0,5.863,Low Budget
+629176,Samaritan,100000000,0,6.678,High Budget
+830788,The Invitation,10000000,33628000,6.015,Low Budget
+744276,After Ever Happy,14000000,19238073,6.791,Low Budget
+556694,Three Thousand Years of Longing,60000000,20300000,6.886,High Budget
+852448,I Came By,0,0,6.269,Low Budget
+976720,Vesper,0,889529,6.328,Low Budget
+805327,Look Both Ways,0,0,6.873,Low Budget
+862965,Emily the Criminal,2000000,2157673,6.7,Low Budget
+755566,Day Shift,100000000,0,6.757,High Budget
+985939,Fall,3000000,17363261,7.12,Low Budget
+760741,Beast,0,56000000,6.544,Low Budget
+585511,Luck,0,0,7.745,Low Budget
+520023,Bodies Bodies Bodies,3000000,13900000,6.174,Low Budget
+718930,Bullet Train,90000000,239300000,7.422,High Budget
+766507,Prey,65000000,0,7.674,High Budget
+762975,Purple Hearts,0,0,8.1,Low Budget
+760161,Orphan: First Kill,10000000,9572765,6.615,Low Budget
+539681,DC League of Super-Pets,90000000,203000000,7.181,High Budget
+762504,Nope,68000000,170823080,6.828,High Budget
+698948,Thirteen Lives,55000000,0,7.86,High Budget
+682507,Where the Crawdads Sing,24000000,144353965,7.54,Low Budget
+725201,The Gray Man,200000000,454023,6.924,High Budget
+616037,Thor: Love and Thunder,250000000,760900000,6.4,High Budget
+820912,Persuasion,0,0,6.076,Low Budget
+438148,Minions: The Rise of Gru,85000000,940203765,7.283,High Budget
+869626,Marcel the Shell with Shoes On,6000000,6909209,7.7,Low Budget
+560057,The Sea Beast,0,0,7.325,Low Budget
+614934,Elvis,85000000,288670284,7.478,High Budget
+615469,Spiderhead,0,0,5.789,Low Budget
+759175,The Princess,0,0,6.809,Low Budget
+758330,"Good Luck to You, Leo Grande",0,7589829,7.0,Low Budget
+756999,The Black Phone,16000000,161441914,7.548,Low Budget
+718789,Lightyear,200000000,226425420,6.895,High Budget
+807356,Watcher,5000000,2543216,6.474,Low Budget
+705861,Hustle,21000000,0,7.717,Low Budget
+507086,Jurassic World Dominion,583900000,1004004592,6.631,High Budget
+831946,Interceptor,0,0,6.066,Low Budget
+819876,Crimes of the Future,27000000,4551565,6.035,Low Budget
+361743,Top Gun: Maverick,170000000,1488732821,8.164,High Budget
+780609,Men,6500000,11152071,6.092,Low Budget
+420821,Chip 'n Dale: Rescue Rangers,70000000,623190,6.997,High Budget
+934761,A Perfect Pairing,0,0,6.844,Low Budget
+961484,Last Seen Alive,0,5950199,6.4,Low Budget
+532710,Firestarter,12000000,15000000,5.483,Low Budget
+810171,The Valet,0,0,7.494,Low Budget
+800937,Senior Year,0,0,5.924,Low Budget
+453395,Doctor Strange in the Multiverse of Madness,290000000,955775804,7.2,High Budget
+818397,Memory,30000000,13900000,6.746,Low Budget
+820446,Downton Abbey: A New Era,40000000,92651384,7.209,Low Budget
+648579,The Unbearable Weight of Massive Talent,30000000,29116320,6.8,Low Budget
+838484,Choose or Die,0,0,5.259,Low Budget
+809140,Father Stu,4000000,21591034,7.2,Low Budget
+739993,Metal Lords,0,0,6.887,Low Budget
+294793,All the Old Knives,0,0,6.0,Low Budget
+950445,Return to Space,0,0,6.543,Low Budget
+639933,The Northman,70000000,69633110,7.036,High Budget
+338953,Fantastic Beasts: The Secrets of Dumbledore,200000000,407200000,6.6,High Budget
+661231,Operation Mincemeat,0,0,6.5,Low Budget
+675353,Sonic the Hedgehog 2,110000000,405421518,7.4,High Budget
+526896,Morbius,75000000,167635712,5.9,High Budget
+545611,Everything Everywhere All at Once,25000000,139200000,7.7,Low Budget
+752623,The Lost City,74000000,192907684,6.474,High Budget
+760104,X,1000000,15113105,6.736,Low Budget
+629542,The Bad Guys,80000000,250162278,7.537,High Budget
+619979,Deep Water,49000000,0,5.816,Low Budget
+763285,Ambulance,40000000,52303589,6.637,Low Budget
+836225,The Exorcism of God,1500000,0,7.1,Low Budget
+696806,The Adam Project,116000000,0,7.006,High Budget
+628900,The Contractor,0,2122288,6.356,Low Budget
+508947,Turning Red,175000000,0,7.328,High Budget
+840882,The Weekend Away,0,0,6.0,Low Budget
+787752,Fresh,0,0,6.97,Low Budget
+414906,The Batman,185000000,772319315,7.659,High Budget
+799876,The Outfit,5000000,4000000,7.082,Low Budget
+833425,No Exit,0,0,6.856,Low Budget
+632727,Texas Chainsaw Massacre,20000000,0,5.209,Low Budget
+626735,Dog,20000000,84774243,7.305,Low Budget
+818750,The In Between,0,0,7.333,Low Budget
+836009,Against the Ice,0,0,6.8,Low Budget
+823625,Blacklight,43000000,15902207,6.166,Low Budget
+800510,Kimi,3500000,0,6.2,Low Budget
+335787,Uncharted,120000000,407141258,6.884,High Budget
+615904,Marry Me,23000000,44000000,6.622,Low Budget
+505026,Death on the Nile,90000000,137307235,6.423,High Budget
+923632,The Tinder Swindler,0,0,6.974,Low Budget
+406759,Moonfall,146000000,67319703,6.3,High Budget
+656663,Jackass Forever,10000000,80340218,6.807,Low Budget
+585083,Hotel Transylvania: Transformania,75000000,18500000,7.049,High Budget
+817648,Home Team,0,0,6.6,Low Budget
+774825,The Ice Age Adventures of Buck Wild,0,0,6.586,Low Budget
+698508,Redeeming Love,30000000,9464198,7.8,Low Budget
+245842,The King's Daughter,40500000,2200000,7.04,Low Budget
+790142,The Royal Treatment,0,0,6.7,Low Budget
+926899,The House,0,0,7.024,Low Budget
+760926,Gold,6500000,176048,6.189,Low Budget
+646385,Scream,24000000,137743924,6.689,Low Budget
+522016,The 355,75000000,55700000,6.0,High Budget
+899082,Harry Potter 20th Anniversary: Return to Hogwarts,0,0,7.305,Low Budget
