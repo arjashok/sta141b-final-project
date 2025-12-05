@@ -175,6 +175,7 @@ def compare_review_scores():
         "R2": r2,
     }
     
+    # save metrics
     with open(METRICS_PATH, "w") as f:
         json.dump(metrics, f, indent=4)
 

@@ -14,6 +14,7 @@ REVIEW_PATH = DATASET_PATH / "reviews.csv"
 SENTIMENT_PATH = DATASET_PATH / "sentiment.csv"
 CLEANED_PATH = DATASET_PATH / "cleaned.csv"
 METRICS_PATH = DATASET_PATH / "metrics.json"
+BUDGET_PATH = DATASET_PATH / "2024_movie_budget_dataset.csv"
 
 DEV_PATH = HOME_PATH / ".dev"
 
