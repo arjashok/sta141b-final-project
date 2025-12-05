@@ -66,7 +66,7 @@ def compare_budget_v_sentiment() -> None:
                     ha="center", va="bottom", fontsize=9)
     plt.tight_layout()
 
-    outpath = FIG_PATH / "budget_vs_sentiment.png"
+    outpath = FIG_PATH / "rq2_budget_vs_sentiment.png"
     plt.savefig(outpath, dpi=300)
     plt.close()
     
@@ -96,7 +96,7 @@ def compare_budget_v_sentiment() -> None:
     plt.legend(title="Budget Category")
     plt.tight_layout()
 
-    outpath = FIG_PATH / "budget_vs_sentiment_regressions.png"
+    outpath = FIG_PATH / "rq2_budget_vs_sentiment_regressions.png"
     plt.savefig(outpath, dpi=300)
     plt.close()
 
