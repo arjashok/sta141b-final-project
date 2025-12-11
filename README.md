@@ -1,6 +1,8 @@
 # sta141b-final-project
 Movie reviews, budget, and revenues scraping + analysis.
 
+Authors: A. Ashok, J. Tran, M. Chao, J. Ellis
+
 ## Environment Setup
 Clone the repo via:
 ```
