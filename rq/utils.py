@@ -3,6 +3,7 @@
 """
 
 # Constants
+import time
 from pathlib import Path
 
 HOME_PATH = Path(__file__).resolve().parent.parent
@@ -17,6 +18,8 @@ METRICS_PATH = DATASET_PATH / "metrics.json"
 BUDGET_PATH = DATASET_PATH / "2024_movie_budget_dataset.csv"
 
 DEV_PATH = HOME_PATH / ".dev"
+
+WAIT_TIME = 0.125 # seconds to wait b/w requests
 
 def _load_api_key() -> str:
     # check the file exists
@@ -61,13 +64,14 @@ def get_reviews(movie_id: int) -> list[dict[str, Any]]:
     # track all reviews
     reviews = list()
     
-    # get response
+    # get response & wait
     res = requests.get(
         url,
         headers=headers
     )
     res.raise_for_status()
     first_page = res.json()
+    time.sleep(WAIT_TIME)
     
     # check the total number of pages
     npages = first_page.get("total_pages", 1)
@@ -87,6 +91,9 @@ def get_reviews(movie_id: int) -> list[dict[str, Any]]:
         
         # append
         reviews.extend(res.get("results", []))
+
+        # waiting
+        time.sleep(WAIT_TIME)
     
     # give back as a list of dicts
     return reviews
